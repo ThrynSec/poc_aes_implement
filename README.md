@@ -13,3 +13,11 @@ poc-aes -client secure -c example.com
 poc-aes -client key -c keyexample
 
 poc-aes -client message -c content of the message
+
+
+How to use on windows :
+Install golang
+
+open cmd
+go to folder
+enter "go build ./cmd/main/main.go"
